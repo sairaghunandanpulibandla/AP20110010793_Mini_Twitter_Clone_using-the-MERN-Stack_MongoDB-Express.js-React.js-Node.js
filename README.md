@@ -1,4 +1,4 @@
-## Fullstack Mini Twitter Clone with MERN Stack (Mongodb,Express.js,React.js,Node.js)
+## Mini Twitter Clone with MERN Stack (Mongodb,Express.js,React.js,Node.js)
 
 #Requirements Done:
 
