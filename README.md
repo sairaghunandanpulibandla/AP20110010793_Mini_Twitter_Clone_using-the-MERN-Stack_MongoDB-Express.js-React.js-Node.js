@@ -19,7 +19,7 @@
 
 ![Home Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Home%20page.png)
 
-![Edit Profile Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.jsNode.js/blob/master/Final%20Results%20Screenshots/Edit%20Profile.png)
+![Edit Profile Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Edit%20Profile.png)
 
 ![Posting a Tweet](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Tweet.png)
 
