@@ -11,7 +11,7 @@
 -Follow/Unfollow any user.
 -View the timeline, which displays tweets from followed users in chronological order.
 
-![alt text](Final Results Screenshots/Landing page.png)
+![alt text]()
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
