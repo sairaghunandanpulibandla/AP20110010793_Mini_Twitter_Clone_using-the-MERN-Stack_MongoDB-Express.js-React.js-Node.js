@@ -11,7 +11,21 @@
 -Follow/Unfollow any user.
 -View the timeline, which displays tweets from followed users in chronological order.
 
-![alt text](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
+![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
+
+![SignUp Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signup%20page.png)
+
+![SignIn Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signin%20page.png)
+
+![Home Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Home%20page.png)
+
+![Edit Profile Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.jsNode.js/blob/master/Final%20Results%20Screenshots/Edit%20Profile.png)
+
+![Posting a Tweet](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Tweet.png)
+
+![User Tweet History](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/User%20Tweet%20History.png)
+
+
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
