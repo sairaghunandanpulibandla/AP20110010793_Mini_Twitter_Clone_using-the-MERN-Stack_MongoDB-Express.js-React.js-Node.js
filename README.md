@@ -15,8 +15,12 @@
 - Use best practices for code architecture.
 - Follow MongoDb best practices and design principles while keeping scalability in mind.
 - Write clean and well-architected code.
+- 
+## Screenshots:
 
-- ### Landing Page ![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
+- ### Landing Page:
+  
+- ![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
 
 - ![SignUp Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signup%20page.png)
 
