@@ -11,7 +11,7 @@
 -Follow/Unfollow any user.
 -View the timeline, which displays tweets from followed users in chronological order.
 
-![alt text]()
+![alt text](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
