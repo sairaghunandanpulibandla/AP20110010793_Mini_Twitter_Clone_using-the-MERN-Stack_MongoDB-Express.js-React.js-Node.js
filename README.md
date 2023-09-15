@@ -20,31 +20,31 @@
 
 - ### Landing Page:
   
-- ![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
+![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
 
 - ### SignUp Page:
 
-- ![SignUp Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signup%20page.png)
+![SignUp Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signup%20page.png)
 
 - ### SignIn Page:
 
-- ![SignIn Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signin%20page.png)
+![SignIn Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signin%20page.png)
 
 - ### Home Page:
 
-- ![Home Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Home%20page.png)
+![Home Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Home%20page.png)
 
 - ### Edit Profile Page:
 
-- ![Edit Profile Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Edit%20Profile.png)
+![Edit Profile Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Edit%20Profile.png)
 
 - ### Posting a Tweet:
 
-- ![Posting a Tweet](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Tweet.png)
+![Posting a Tweet](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Tweet.png)
 
 - ### User Tweet History:
 
-- ![User Tweet History](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/User%20Tweet%20History.png)
+![User Tweet History](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/User%20Tweet%20History.png)
 
 
 
