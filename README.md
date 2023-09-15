@@ -1,6 +1,6 @@
-## Mini Twitter Clone with MERN Stack (Mongodb,Express.js,React.js,Node.js)
+# Mini Twitter Clone with MERN Stack (Mongodb,Express.js,React.js,Node.js)
 
-# Requirements Done:
+## Requirements Done:
 
 - Implement a user registration and authentication system.
 - Users should be able to register with a unique username and password.
@@ -11,12 +11,12 @@
 - Follow/Unfollow any user.
 - View the timeline, which displays tweets from followed users in chronological order.
 
-# Guidelines:
+## Guidelines:
 - Use best practices for code architecture.
 - Follow MongoDb best practices and design principles while keeping scalability in mind.
 - Write clean and well-architected code.
 
-- ![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
+- ### Landing Page ![Landing Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Landing%20page.png)
 
 - ![SignUp Page](https://github.com/sairaghunandanpulibandla/AP20110010793_Mini_Twitter_Clone_using-the-MERN-Stack_MongoDB-Express.js-React.js-Node.js/blob/master/Final%20Results%20Screenshots/Signup%20page.png)
 
